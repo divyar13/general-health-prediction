@@ -92,7 +92,6 @@ and run this file
 
 ### 2. Doctor Details
 
-![alt text](https://www.linkpicture.com/q/2023-02-19-5.png)
 
 
 ### 3. Admin DashBoard
