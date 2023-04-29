@@ -97,7 +97,7 @@ and run this file
 
 ### 3. Admin DashBoard
 
-![alt text](https://www.linkpicture.com/q/2023-02-19-10_1.png)
+
 
 ### 4. Hearth Prediction
 
@@ -122,4 +122,3 @@ and run this file
 
 ### 9. Admin Pannel
 
-![alt text](https://www.linkpicture.com/q/2023-02-19-11.png)
